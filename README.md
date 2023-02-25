@@ -3,7 +3,9 @@ Complete domination mode using custom objective code to create the objectives. T
 
 Experience URL is:
 https://portal.battlefield.com/experience/rules?playgroundId=304cae30-0c1d-11ed-b31f-6c9c4d8e8d6a
+
 Video Part 1:
 https://youtu.be/QtdaJZEbw0Q
+
 Video Part 2:
 https://youtu.be/r6-CXMYPlTM
